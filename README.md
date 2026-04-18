@@ -9,6 +9,7 @@ This repository explores the performance trade-offs between Recurrent Neural Net
 The project implements two distinct Deep Neural Network (DNN) approaches:**
 
 **1. Stacked LSTM (RNN)**: Leverages gated memory cells to maintain a hidden state across time steps, capturing sequential dependencies and daily seasonality.
+
 **2. Transformer (Self-Attention):** Utilizes Multi-Head Attention and Sinusoidal Positional Encoding to process temporal sequences in parallel, bypassing the vanishing gradient issues of standard recurrence.
 
 **🚀 Key Technical Features**
